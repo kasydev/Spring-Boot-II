@@ -7,7 +7,9 @@ A simple book management system web app.
 - Spring Data JPA.
 - BootStrap.
 - Thymeleaf.
-- MySQL. 
+- MySQL.
+
+**This is not mobile friendly.**
 
 ### Screenshots
 
